@@ -1,13 +1,11 @@
-class Solution(object):
-    def containsDuplicate(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: bool
-        """
-        nonRepeat=set()
+class Solution:
+    def containsDuplicate(self, nums: list[int]) -> bool:
+        seen = set()
+
         for x in nums:
-            if x in nonRepeat:
+            if x in seen:
                 return True
-            else:
-                nonRepeat.add(x)
+            seen.add(x)
         return False
+
+        
