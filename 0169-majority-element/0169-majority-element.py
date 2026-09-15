@@ -6,8 +6,6 @@ class Solution:
         for x in nums:
             elem[x]=elem.get(x,0)+1
         
-        for i in elem:
-            elem[i]/=2
         
         res=max(elem, key=elem.get)
 
