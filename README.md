@@ -17,6 +17,7 @@ My LeetCode solutions in Python to practice algorithms and data structures.
 | [0238-product-of-array-except-self](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ My LeetCode solutions in Python to practice algorithms and data structures.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0704-binary-search) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
