@@ -14,6 +14,7 @@ My LeetCode solutions in Python to practice algorithms and data structures.
 | [0217-contains-duplicate](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ My LeetCode solutions in Python to practice algorithms and data structures.
 | [0217-contains-duplicate](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +33,7 @@ My LeetCode solutions in Python to practice algorithms and data structures.
 | [0217-contains-duplicate](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -71,8 +74,13 @@ My LeetCode solutions in Python to practice algorithms and data structures.
 | [0011-container-with-most-water](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
