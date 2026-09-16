@@ -10,6 +10,7 @@ My LeetCode solutions in Python to practice algorithms and data structures.
 | [0011-container-with-most-water](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0169-majority-element) |
@@ -97,4 +98,8 @@ My LeetCode solutions in Python to practice algorithms and data structures.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/cassandra093517-cpu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
